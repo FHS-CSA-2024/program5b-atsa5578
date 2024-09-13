@@ -24,3 +24,18 @@ public class CarTester{
     }
 }
 
+// what was printed out
+Please enter the car's name: 
+ferrari
+Please enter car's miles: 
+200
+Please enter car's gallons: 
+39.0
+ferrari averaged 5.1 m/g 
+Please enter the car's name: 
+honda civic
+Please enter car's miles: 
+300
+Please enter car's gallons: 
+30
+honda civic averaged 10.0 m/g 
