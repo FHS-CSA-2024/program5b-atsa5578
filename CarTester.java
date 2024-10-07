@@ -23,7 +23,7 @@ public class CarTester{
         
     }
 }
-
+/*
 // what was printed out
 Please enter the car's name: 
 ferrari
@@ -39,3 +39,4 @@ Please enter car's miles:
 Please enter car's gallons: 
 30
 honda civic averaged 10.0 m/g 
+*/
